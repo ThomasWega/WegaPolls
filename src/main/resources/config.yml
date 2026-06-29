@@ -1,0 +1,7 @@
+# WegaPolls configuration
+
+mongodb:
+  # MongoDB connection URI. Supports auth: mongodb://user:pass@host:port
+  uri: "mongodb://localhost:27017"
+  # Database name
+  database: "wegapolls"

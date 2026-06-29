@@ -1,0 +1,6 @@
+name: WegaPolls
+author: ThomasWega
+website: https://github.com/ThomasWega/WegaPolls
+version: '${version}'
+main: me.wega.wegapolls.WegaPolls
+api-version: '26.1.2'
